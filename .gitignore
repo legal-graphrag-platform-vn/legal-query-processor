@@ -1,2 +1,2 @@
-# Model weights (quá lớn, không push lên GitHub)
-models/*.safetensors
+# Model weights và artifact fine-tuning (quá lớn, không push lên GitHub)
+models/
