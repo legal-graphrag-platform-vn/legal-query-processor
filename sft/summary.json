@@ -1,0 +1,22 @@
+{
+  "schema_version": "query-processing-conversational-sft-v1",
+  "source_schema_version": "query-processing-final-dataset-v1",
+  "split_counts": {
+    "train": 5675,
+    "validation": 710,
+    "test": 709
+  },
+  "sample_count": 7094,
+  "history_turn_counts": {
+    "0": 4718,
+    "2": 2109,
+    "4": 267
+  },
+  "training_fields": [
+    "messages"
+  ],
+  "traceability_fields_not_used_for_loss": [
+    "sample_id"
+  ],
+  "target": "assistant JSON only"
+}
