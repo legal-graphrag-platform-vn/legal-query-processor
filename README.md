@@ -1,5 +1,12 @@
 # Query Processing Fine-tuning
 
+Thực hiện bởi sinh viên Học viện Công nghệ Bưu chính Viễn thông Cơ sở Hồ Chí Minh (PTIT HCM):
+
+Đặng Xuân Lâm - N22DCCN047
+Nguyễn Anh Kha - N22DCCN078
+Phan Nhật Minh - N22DCC054
+Giáo viên hướng dẫn: Nguyễn Thị Bích Nguyên
+
 Mô-đun Query Processing chuẩn hóa câu hỏi trước retrieval, bao gồm resolve ngữ
 cảnh hội thoại, viết lại câu hỏi độc lập, phân rã query, gán intent và biểu diễn
 quan hệ giữa các subquery.
