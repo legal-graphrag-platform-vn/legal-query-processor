@@ -7,6 +7,8 @@ Nguyễn Anh Kha - N22DCCN078<br>
 Phan Nhật Minh - N22DCC054<br>
 Giáo viên hướng dẫn: Nguyễn Thị Bích Nguyên
 
+---
+
 Mô-đun Query Processing chuẩn hóa câu hỏi trước retrieval, bao gồm resolve ngữ
 cảnh hội thoại, viết lại câu hỏi độc lập, phân rã query, gán intent và biểu diễn
 quan hệ giữa các subquery.
