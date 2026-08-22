@@ -2,9 +2,9 @@
 
 Thực hiện bởi sinh viên Học viện Công nghệ Bưu chính Viễn thông Cơ sở Hồ Chí Minh (PTIT HCM):
 
-Đặng Xuân Lâm - N22DCCN047
-Nguyễn Anh Kha - N22DCCN078
-Phan Nhật Minh - N22DCC054
+Đặng Xuân Lâm - N22DCCN047<br>
+Nguyễn Anh Kha - N22DCCN078<br>
+Phan Nhật Minh - N22DCC054<br>
 Giáo viên hướng dẫn: Nguyễn Thị Bích Nguyên
 
 Mô-đun Query Processing chuẩn hóa câu hỏi trước retrieval, bao gồm resolve ngữ
